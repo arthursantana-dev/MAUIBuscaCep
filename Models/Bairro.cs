@@ -8,5 +8,7 @@ namespace MAUIBuscaCep.Models
 {
     internal class Bairro
     {
+        public string descricaoBairro { get; set; }
+
     }
 }
