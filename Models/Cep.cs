@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MAUIBuscaCep.Models
 {
-    internal class Cep
+    public class Cep
     {
         public string CEP { get; set; }
         public string idLogradouro { get; set; }

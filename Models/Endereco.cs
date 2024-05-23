@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MAUIBuscaCep.Models
 {
-    internal class Endereco
+    public class Endereco
     {
         public string idLogradouro { get; set; }
 
