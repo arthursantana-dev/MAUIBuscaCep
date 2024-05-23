@@ -1,14 +1,10 @@
-﻿namespace MAUIBuscaCep
+﻿using MAUIBuscaCep.Models;
+using MAUIBuscaCep.Services;
+
+namespace MauiAppBuscaCep
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
-        public MainPage()
-        {
-            InitializeComponent();
-        }
 
     }
-
 }
