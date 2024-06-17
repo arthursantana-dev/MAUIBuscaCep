@@ -16,7 +16,7 @@ namespace MAUIBuscaCep.Models
         public string UF { get; set; }
         public string complemento { get; set; }
         public string descricaoSemNumero { get; set; }
-        public string descricaoCidade { get; set; }
+        public string descricao_cidade { get; set; }
 
         public string codigoCidadeIBGE { get; set; }
 
